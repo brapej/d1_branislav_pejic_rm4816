@@ -1,0 +1,8 @@
+#include<cstdio.h>
+
+int main(){
+
+putchar('h');
+
+
+return 0;}
